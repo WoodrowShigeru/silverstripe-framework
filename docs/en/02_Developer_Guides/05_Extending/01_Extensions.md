@@ -41,7 +41,7 @@ Convention is for extension class names to end in `Extension`. This isn't a requ
 </div>
 
 After this class has been created, it does not yet apply it to any object. We need to tell SilverStripe what classes 
-we want to add the `MyMemberExtension` too. To activate this extension, add the following via the [Configuration API](../configuration).
+we want to add the `MyMemberExtension` to. To activate this extension, add the following via the [Configuration API](../configuration).
 
 **mysite/_config/app.yml**
 
